@@ -2,5 +2,5 @@
 
 ## Deployment
 
-The project is deployed and can be accessed at: [https://uniguideproject.netlify.app/](https://uniguideproject.netlify.app/)
+The project is deployed and can be accessed at: [https://uni-guide-chi.vercel.app/](https://uni-guide-chi.vercel.app/)
 
